@@ -8,4 +8,5 @@ I am open to new ideas and collaborations.
 
 Find me:
 LinkedIn: [Aria Torkpour]([url]www.linkedin.com/in/aria-torkpour)
+
 Twitter: [@__Aria__T]([url](https://x.com/__Aria__T))
