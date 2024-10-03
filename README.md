@@ -7,7 +7,4 @@ I started learning to code as I enjoy problem solving - though I am new to Githu
 I am open to new ideas and collaborations.
 
 Find me:
-
-LinkedIn: [Aria Torkpour]([url]www.linkedin.com/in/aria-torkpour)
-
-Twitter: [@__Aria__T]([url](https://x.com/__Aria__T))
+LinkedIn: [Aria Torkpour]([url]www.linkedin.com/in/aria-torkpour) | Twitter: [@__Aria__T]([url](https://x.com/__Aria__T))
