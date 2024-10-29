@@ -1,4 +1,4 @@
-## Institute of Cancer Research MBPhD Student at Imperial College
+## Imperial x Institute of Cancer Research MBPhD Student
 ### Computational Pathology
 #### BSc Medical Humanities, Philosophy and Law
 
