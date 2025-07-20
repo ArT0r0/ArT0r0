@@ -6,4 +6,4 @@ I am an MBPhD student working on deep learning models with a focus on liver canc
 Open to new ideas and collaborations.
 
 Find me:
-LinkedIn: [Aria Torkpour]([www.linkedin.com/in/aria-torkpour]) | Twitter: [@__Aria__T]([https://x.com/__Aria__T])
+LinkedIn: [Aria Torkpour](www.linkedin.com/in/aria-torkpour) | Twitter: [@__Aria__T](https://x.com/__Aria__T)
